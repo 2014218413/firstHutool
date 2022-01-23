@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ceb91eb-c7d8-470d-946a-c20527835a5e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xq8mt5XW01sqkJ42UmaGFqppif" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../AndroidSdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Git/cmd/git.exe" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="webService" />
+      <recent name="My.BJ301.B68" />
+      <recent name="My.BJ301" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\firstHutool\target\classes" />
+      <recent name="D:\firstHutool\target" />
+      <recent name="D:\firstHutool\src\main\java" />
+      <recent name="D:\firstHutool\target\classes\dddd" />
+      <recent name="D:\firstHutool\target\classes\My\j8" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.T20220121">
+    <configuration name="S" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="upAndDown.S" />
+      <module name="firstHutool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="upAndDown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T20220121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T20220121" />
+      <module name="firstHutool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="firstHutool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestXml" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestXml" />
+      <module name="firstHutool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sss" />
+      <module name="firstHutool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.T20220121" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.sss" />
+        <item itemvalue="Application.TestXml" />
+        <item itemvalue="Application.S" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ceb91eb-c7d8-470d-946a-c20527835a5e" name="Default Changelist" comment="" />
+      <created>1631071419810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631071419810</updated>
+      <workItem from="1631071423146" duration="9321000" />
+      <workItem from="1631177485244" duration="1191000" />
+      <workItem from="1631194078590" duration="1844000" />
+      <workItem from="1631241656879" duration="629000" />
+      <workItem from="1631341593931" duration="4832000" />
+      <workItem from="1632302365944" duration="1743000" />
+      <workItem from="1632318627053" duration="1372000" />
+      <workItem from="1632884345976" duration="4298000" />
+      <workItem from="1632966714744" duration="1309000" />
+      <workItem from="1633661603019" duration="5140000" />
+      <workItem from="1633702717863" duration="1223000" />
+      <workItem from="1633774068274" duration="628000" />
+      <workItem from="1633862706247" duration="1220000" />
+      <workItem from="1633944683444" duration="1226000" />
+      <workItem from="1633961413234" duration="701000" />
+      <workItem from="1634029677221" duration="1649000" />
+      <workItem from="1634087309367" duration="2176000" />
+      <workItem from="1635234144721" duration="2251000" />
+      <workItem from="1635490690936" duration="3851000" />
+      <workItem from="1635587338509" duration="847000" />
+      <workItem from="1635683592991" duration="2310000" />
+      <workItem from="1635819425353" duration="6134000" />
+      <workItem from="1636335286755" duration="659000" />
+      <workItem from="1636336265904" duration="2398000" />
+      <workItem from="1636351216681" duration="1868000" />
+      <workItem from="1636533783618" duration="1574000" />
+      <workItem from="1636600949138" duration="595000" />
+      <workItem from="1636680349680" duration="3871000" />
+      <workItem from="1636882120259" duration="2763000" />
+      <workItem from="1636940514280" duration="4928000" />
+      <workItem from="1637025521333" duration="5685000" />
+      <workItem from="1637043022347" duration="4358000" />
+      <workItem from="1637114150074" duration="8079000" />
+      <workItem from="1637197972009" duration="13846000" />
+      <workItem from="1637285492809" duration="2963000" />
+      <workItem from="1637544385697" duration="1807000" />
+      <workItem from="1637655777975" duration="5251000" />
+      <workItem from="1637715920429" duration="11874000" />
+      <workItem from="1637742560859" duration="6674000" />
+      <workItem from="1637755095744" duration="2595000" />
+      <workItem from="1637802755547" duration="4453000" />
+      <workItem from="1637831696971" duration="1807000" />
+      <workItem from="1637845619781" duration="1053000" />
+      <workItem from="1637891553066" duration="8924000" />
+      <workItem from="1638010946863" duration="621000" />
+      <workItem from="1638169073171" duration="3396000" />
+      <workItem from="1638237155362" duration="600000" />
+      <workItem from="1638345645800" duration="328000" />
+      <workItem from="1638346926522" duration="715000" />
+      <workItem from="1638859743735" duration="2534000" />
+      <workItem from="1638884120466" duration="623000" />
+      <workItem from="1638926408101" duration="766000" />
+      <workItem from="1639032962044" duration="8000" />
+      <workItem from="1639105806438" duration="4906000" />
+      <workItem from="1639120377136" duration="11000" />
+      <workItem from="1639121761114" duration="1281000" />
+      <workItem from="1639401957387" duration="2047000" />
+      <workItem from="1639447983550" duration="9254000" />
+      <workItem from="1639530879403" duration="3847000" />
+      <workItem from="1639617810239" duration="3026000" />
+      <workItem from="1639621664082" duration="1764000" />
+      <workItem from="1639656860897" duration="1204000" />
+      <workItem from="1639963040470" duration="2500000" />
+      <workItem from="1640049210893" duration="1753000" />
+      <workItem from="1640080125492" duration="16000" />
+      <workItem from="1640141209639" duration="3137000" />
+      <workItem from="1640230574135" duration="601000" />
+      <workItem from="1640586131750" duration="6807000" />
+      <workItem from="1640654458131" duration="12067000" />
+      <workItem from="1640740999656" duration="6659000" />
+      <workItem from="1640827154674" duration="613000" />
+      <workItem from="1640913691028" duration="1888000" />
+      <workItem from="1641258556447" duration="1338000" />
+      <workItem from="1641345933097" duration="613000" />
+      <workItem from="1641377076675" duration="1574000" />
+      <workItem from="1641432084738" duration="7725000" />
+      <workItem from="1641518509252" duration="610000" />
+      <workItem from="1641547568289" duration="594000" />
+      <workItem from="1641715244682" duration="2003000" />
+      <workItem from="1641777074292" duration="1819000" />
+      <workItem from="1641864147708" duration="9468000" />
+      <workItem from="1641950009715" duration="8696000" />
+      <workItem from="1642074578272" duration="1783000" />
+      <workItem from="1642317374664" duration="1300000" />
+      <workItem from="1642424948590" duration="645000" />
+      <workItem from="1642468825139" duration="1858000" />
+      <workItem from="1642563250160" duration="8938000" />
+      <workItem from="1642680161640" duration="1363000" />
+      <workItem from="1642727754499" duration="4058000" />
+      <workItem from="1642768605134" duration="3718000" />
+      <workItem from="1642777572138" duration="887000" />
+      <workItem from="1642936224962" duration="2470000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
