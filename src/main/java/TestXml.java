@@ -22,6 +22,7 @@ public class TestXml {
         System.out.println(stringBuffer.replace(0, 2, "789"));
 
         System.out.println("git---------------");
+        System.out.println("git---------------");
 
 
     }
