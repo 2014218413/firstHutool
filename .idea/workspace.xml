@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ceb91eb-c7d8-470d-946a-c20527835a5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestXml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="fen" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -220,8 +225,30 @@
       <workItem from="1642727754499" duration="4058000" />
       <workItem from="1642768605134" duration="3718000" />
       <workItem from="1642777572138" duration="887000" />
-      <workItem from="1642936224962" duration="3147000" />
+      <workItem from="1642936224962" duration="4231000" />
     </task>
+    <task id="LOCAL-00001" summary="dddddddd">
+      <created>1642940005882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642940005882</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dddddddd">
+      <created>1642940063470</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642940063470</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dddddddd">
+      <created>1642940187282</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642940187282</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,5 +264,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dddddddd" />
+    <option name="LAST_COMMIT_MESSAGE" value="dddddddd" />
   </component>
 </project>
