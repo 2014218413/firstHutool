@@ -1,9 +1,4 @@
-import cn.hutool.db.ds.DSFactory;
-import cn.hutool.setting.Setting;
-import com.alibaba.druid.pool.DruidAbstractDataSource;
-import com.alibaba.druid.pool.DruidDataSource;
-import org.nutz.dao.Dao;
-import org.nutz.dao.impl.NutDao;
+
 
 import javax.sql.DataSource;
 import java.io.*;
@@ -40,7 +35,7 @@ public class Test {
         list.add(A);
         list.add(B);
         list.add(C);
-
+        System.out.println("ooooooooooooos");
         list.stream().sorted(new Comparator<Ren>() {
             @Override
             public int compare(Ren o1, Ren o2) {
