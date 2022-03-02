@@ -1,4 +1,7 @@
 public class Ren {
+    /*
+    *测1
+    * */
     private String name;
     private double d1;
     private double d2;

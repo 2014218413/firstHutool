@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1ceb91eb-c7d8-470d-946a-c20527835a5e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstHutool.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ren.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ren.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,17 +103,6 @@
     <configuration name="sss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sss" />
       <module name="firstHutool" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -232,6 +222,7 @@
       <workItem from="1642936224962" duration="4231000" />
       <workItem from="1642943182076" duration="22000" />
       <workItem from="1646033848859" duration="255000" />
+      <workItem from="1646208875307" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="dddddddd">
       <created>1642940005882</created>
